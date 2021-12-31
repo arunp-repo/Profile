@@ -1,7 +1,7 @@
 ## Conference Presentations
 
 1. MLOps World: Machine Learning in Production\
-**Topic** - [MLSecOps and Shift-left your security gears in Model Lifecycle](https://www.youtube.com/watch?v=zWJdvjJIO2w&list=PLlcxuf1qTrwCUs2DIeVjaxZ_FgvwuGOJb&index=18&t=188s)
+[MLSecOps and Shift-left your security gears in Model Lifecycle](https://www.youtube.com/watch?v=zWJdvjJIO2w&list=PLlcxuf1qTrwCUs2DIeVjaxZ_FgvwuGOJb&index=18&t=188s)
 
 2. **Event** - Equilibrium Conference 2021\
 **Topic** - [Effective Governance for Continuous Security in Hardware Devices](https://resources.securitycompass.com/equilibrium/effective-governance-for-continuous-security-in-hardware-devices)
