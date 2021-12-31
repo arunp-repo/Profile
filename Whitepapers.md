@@ -9,5 +9,5 @@
 * Building a Product Security Practice in a DevOps World\
 [Access here](https://resources.securitycompass.com/whitepapers/building-key-product-security-capabilities)
 
-* Emerging Trends in InfoSec
+* Emerging Trends in InfoSec\
 [Access here](https://arunp14sec.medium.com/)
