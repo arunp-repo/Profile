@@ -10,4 +10,4 @@
 [Access here](https://resources.securitycompass.com/whitepapers/building-key-product-security-capabilities)
 
 * All Articles/Whitepapers on Emerging Trends in InfoSec\
-[Link to my Medium page here](https://arunp14sec.medium.com/)
+[Link to my Medium page](https://arunp14sec.medium.com/)
